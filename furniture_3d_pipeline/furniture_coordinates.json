@@ -1,0 +1,159 @@
+{
+  "image_path": "image.png",
+  "image_dimensions": {
+    "width": 5141,
+    "height": 3432
+  },
+  "furniture_pieces": [
+    {
+      "filename": "plant_001.png",
+      "class_name": "plant",
+      "bounding_box": {
+        "x1": 642,
+        "y1": 1230,
+        "x2": 1789,
+        "y2": 3255
+      },
+      "confidence": 0.9842514991760254,
+      "center": {
+        "x": 1215,
+        "y": 2242
+      }
+    },
+    {
+      "filename": "pillow_002.png",
+      "class_name": "pillow",
+      "bounding_box": {
+        "x1": 2294,
+        "y1": 2418,
+        "x2": 2848,
+        "y2": 2817
+      },
+      "confidence": 0.9484545588493347,
+      "center": {
+        "x": 2571,
+        "y": 2617
+      }
+    },
+    {
+      "filename": "light source_003.png",
+      "class_name": "light source",
+      "bounding_box": {
+        "x1": 4025,
+        "y1": 1206,
+        "x2": 4562,
+        "y2": 3253
+      },
+      "confidence": 0.8802521228790283,
+      "center": {
+        "x": 4293,
+        "y": 2229
+      }
+    },
+    {
+      "filename": "painting_004.png",
+      "class_name": "painting",
+      "bounding_box": {
+        "x1": 10,
+        "y1": 870,
+        "x2": 678,
+        "y2": 3176
+      },
+      "confidence": 0.8523107767105103,
+      "center": {
+        "x": 344,
+        "y": 2023
+      }
+    },
+    {
+      "filename": "plant_005.png",
+      "class_name": "plant",
+      "bounding_box": {
+        "x1": 3011,
+        "y1": 1110,
+        "x2": 3758,
+        "y2": 2144
+      },
+      "confidence": 0.849881649017334,
+      "center": {
+        "x": 3384,
+        "y": 1627
+      }
+    },
+    {
+      "filename": "vase_006.png",
+      "class_name": "vase",
+      "bounding_box": {
+        "x1": 982,
+        "y1": 2896,
+        "x2": 1289,
+        "y2": 3252
+      },
+      "confidence": 0.8101994395256042,
+      "center": {
+        "x": 1135,
+        "y": 3074
+      }
+    },
+    {
+      "filename": "bookshelf_007.png",
+      "class_name": "bookshelf",
+      "bounding_box": {
+        "x1": 3090,
+        "y1": 2144,
+        "x2": 4246,
+        "y2": 3256
+      },
+      "confidence": 0.783851683139801,
+      "center": {
+        "x": 3668,
+        "y": 2700
+      }
+    },
+    {
+      "filename": "light source_008.png",
+      "class_name": "light source",
+      "bounding_box": {
+        "x1": 4017,
+        "y1": 1213,
+        "x2": 4458,
+        "y2": 1639
+      },
+      "confidence": 0.7751976847648621,
+      "center": {
+        "x": 4237,
+        "y": 1426
+      }
+    },
+    {
+      "filename": "couch_009.png",
+      "class_name": "couch",
+      "bounding_box": {
+        "x1": 1382,
+        "y1": 2352,
+        "x2": 2930,
+        "y2": 3280
+      },
+      "confidence": 0.6583300232887268,
+      "center": {
+        "x": 2156,
+        "y": 2816
+      }
+    },
+    {
+      "filename": "painting_010.png",
+      "class_name": "painting",
+      "bounding_box": {
+        "x1": 3786,
+        "y1": 1935,
+        "x2": 3944,
+        "y2": 2148
+      },
+      "confidence": 0.5840462446212769,
+      "center": {
+        "x": 3865,
+        "y": 2041
+      }
+    }
+  ]
+}
