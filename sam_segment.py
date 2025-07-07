@@ -14,7 +14,7 @@ import asyncio
 import websockets
 
 # Tripo API Configuration
-API_KEY = "tsk_xuC9uihGXe3Nk49oejYKjdrAz2p29pgjhnv-y3bP2Z1"
+API_KEY = "****"
 
 class FurnitureTo3DPipeline:
     def __init__(self, 
